@@ -4,182 +4,140 @@
             "id": "8960e05de26a48cfa99afb0bf7ae5ea1",
             "name": "DHL Germany",
             "countryIso": "DE",
-            "phases": [
-                {
-                    "warehouse": {
-                        "name": "Warehouse",
-                        "duration": 4
-                    }
+            "phases": {
+                "warehouse": {
+                    "name": "Warehouse",
+                    "duration": 4
                 },
-                {
-                    "transport": {
-                        "name": "Transport",
-                        "duration": 5
-                    }
+                "transport": {
+                    "name": "Transport",
+                    "duration": 5
                 },
-                {
-                    "lastmile": {
-                        "name": "Last Mile",
-                        "duration": 3
-                    }
+                "lastmile": {
+                    "name": "Last Mile",
+                    "duration": 3
                 }
-            ],
+                },
             "status": "Active" 
         },
         {
             "id": "c3b56a9f69544404be4c693b6dfe2800",
             "name": "DHL Swiss",
             "countryIso": "CHE",
-            "phases": [
-                {
-                    "warehouse": {
-                        "name": "Warehouse",
-                        "duration": 4
-                    }
+            "phases": {
+                "warehouse": {
+                    "name": "Warehouse",
+                    "duration": 3
                 },
-                {
-                    "transport": {
-                        "name": "Transport",
-                        "duration": 5
-                    }
-                },
-                {
-                    "lastmile": {
-                        "name": "Last Mile",
-                        "duration": 4
-                    }
+                "transport": {
+                    "name": "Transport",
+                    "duration": 5
                 }
-            ],
+                },
+                "lastmile": {
+                    "name": "Last Mile",
+                    "duration": 4
+                },
             "status": "Active" 
         },
         {
             "id": "a0a6e921629447e58c8fb459a1f2610f",
             "name": "UHS Logistics",
             "countryIso": "AUT",
-            "phases": [
-                {
-                    "warehouse": {
-                        "name": "Warehouse",
-                        "duration": 4
-                    }
+            "phases": {
+                "warehouse": {
+                    "name": "Warehouse",
+                    "duration": 4
                 },
-                {
-                    "transport": {
-                        "name": "Transport",
-                        "duration": 5
-                    }
+                "transport": {
+                    "name": "Transport",
+                    "duration": 5
                 },
-                {
-                    "lastmile": {
-                        "name": "Last Mile",
-                        "duration": 3
-                    }
+                "lastmile": {
+                    "name": "Last Mile",
+                    "duration": 3
                 }
-            ],
+            },
             "status": "Active" 
         },
         {
             "id": "b5e9f04210794082b897912ecc56a8ae",
             "name": "Gateway Logistics",
             "countryIso": "ITA",
-            "phases": [
-                {
-                    "warehouse": {
-                        "name": "Warehouse",
-                        "duration": 2
-                    }
+            "phases": {
+                "warehouse": {
+                    "name": "Warehouse",
+                    "duration": 2
                 },
-                {
-                    "transport": {
-                        "name": "Transport",
-                        "duration": 5
-                    }
+                "transport": {
+                    "name": "Transport",
+                    "duration": 5
                 },
-                {
-                    "lastmile": {
-                        "name": "Last Mile",
-                        "duration": 6
-                    }
+                "lastmile": {
+                    "name": "Last Mile",
+                    "duration": 6
                 }
-            ],
+            },
             "status": "Active" 
         },
         {
             "id": "fd8bd58fea6b488baf9d4058d03dd21a",
             "name": "DHL France",
             "countryIso": "FRA",
-            "phases": [
-                {
-                    "warehouse": {
-                        "name": "Warehouse",
-                        "duration": 4
-                    }
+            "phases": {
+                "warehouse": {
+                    "name": "Warehouse",
+                    "duration": 4
                 },
-                {
-                    "transport": {
-                        "name": "Transport",
-                        "duration": 5
-                    }
+                "transport": {
+                    "name": "Transport",
+                    "duration": 5
                 },
-                {
-                    "lastmile": {
-                        "name": "Last Mile",
-                        "duration": 6
-                    }
+                "lastmile": {
+                    "name": "Last Mile",
+                    "duration": 6
                 }
-            ],
+            },
             "status": "Inactive" 
         },
         {
             "id": "4c0c5638fdd14e82a95dd68e4cdf5aa6",
             "name": "Geodis Freight",
             "countryIso": "ESP",
-            "phases": [
-                {
-                    "warehouse": {
-                        "name": "Warehouse",
-                        "duration": 4
-                    }
+            "phases": {
+                "warehouse": {
+                    "name": "Warehouse",
+                    "duration": 6
                 },
-                {
-                    "transport": {
-                        "name": "Transport",
-                        "duration": 3
-                    }
+                "transport": {
+                    "name": "Transport",
+                    "duration": 3
                 },
-                {
-                    "lastmile": {
-                        "name": "Last Mile",
-                        "duration": 6
-                    }
+                "lastmile": {
+                    "name": "Last Mile",
+                    "duration": 4
                 }
-            ],
+            },
             "status": "Inactive" 
         },
         {
             "id": "71526843440c44a0b56b8d2610d301e6",
             "name": "Fedex NL",
             "countryIso": "NLD",
-            "phases": [
-                {
-                    "warehouse": {
-                        "name": "Warehouse",
-                        "duration": 4
-                    }
+            "phases": {
+                "warehouse": {
+                    "name": "Warehouse",
+                    "duration": 4
                 },
-                {
-                    "transport": {
-                        "name": "Transport",
-                        "duration": 3
-                    }
+                "transport": {
+                    "name": "Transport",
+                    "duration": 2
                 },
-                {
-                    "lastmile": {
-                        "name": "Last Mile",
-                        "duration": 6
-                    }
+                "lastmile": {
+                    "name": "Last Mile",
+                    "duration": 2
                 }
-            ],
+            },
             "status": "Active" 
         }
     ]
