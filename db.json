@@ -6,16 +6,22 @@
             "countryIso": "DE",
             "phases": [
                 {
-                    "label": "Warehouse",
-                    "duration": 4
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "duration": 4
+                    }
                 },
                 {
-                    "label": "Transport",
-                    "duration": 5
+                    "transport": {
+                        "name": "Transport",
+                        "duration": 5
+                    }
                 },
                 {
-                    "label": "Last Mile",
-                    "duration": 3
+                    "lastmile": {
+                        "name": "Last Mile",
+                        "duration": 3
+                    }
                 }
             ],
             "status": "Active" 
@@ -26,16 +32,22 @@
             "countryIso": "CHE",
             "phases": [
                 {
-                    "label": "Warehouse",
-                    "duration": 2
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "duration": 4
+                    }
                 },
                 {
-                    "label": "Transport",
-                    "duration": 5
+                    "transport": {
+                        "name": "Transport",
+                        "duration": 5
+                    }
                 },
                 {
-                    "label": "Last Mile",
-                    "duration": 2
+                    "lastmile": {
+                        "name": "Last Mile",
+                        "duration": 4
+                    }
                 }
             ],
             "status": "Active" 
@@ -46,16 +58,22 @@
             "countryIso": "AUT",
             "phases": [
                 {
-                    "label": "Warehouse",
-                    "duration": 4
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "duration": 4
+                    }
                 },
                 {
-                    "label": "Transport",
-                    "duration": 5
+                    "transport": {
+                        "name": "Transport",
+                        "duration": 5
+                    }
                 },
                 {
-                    "label": "Last Mile",
-                    "duration": 3
+                    "lastmile": {
+                        "name": "Last Mile",
+                        "duration": 3
+                    }
                 }
             ],
             "status": "Active" 
@@ -66,16 +84,22 @@
             "countryIso": "ITA",
             "phases": [
                 {
-                    "label": "Warehouse",
-                    "duration": 2
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "duration": 2
+                    }
                 },
                 {
-                    "label": "Transport",
-                    "duration": 5
+                    "transport": {
+                        "name": "Transport",
+                        "duration": 5
+                    }
                 },
                 {
-                    "label": "Last Mile",
-                    "duration": 6
+                    "lastmile": {
+                        "name": "Last Mile",
+                        "duration": 6
+                    }
                 }
             ],
             "status": "Active" 
@@ -86,16 +110,22 @@
             "countryIso": "FRA",
             "phases": [
                 {
-                    "label": "Warehouse",
-                    "duration": 4
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "duration": 4
+                    }
                 },
                 {
-                    "label": "Transport",
-                    "duration": 5
+                    "transport": {
+                        "name": "Transport",
+                        "duration": 5
+                    }
                 },
                 {
-                    "label": "Last Mile",
-                    "duration": 6
+                    "lastmile": {
+                        "name": "Last Mile",
+                        "duration": 6
+                    }
                 }
             ],
             "status": "Inactive" 
@@ -106,16 +136,22 @@
             "countryIso": "ESP",
             "phases": [
                 {
-                    "label": "Warehouse",
-                    "duration": 4
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "duration": 4
+                    }
                 },
                 {
-                    "label": "Transport",
-                    "duration": 3
+                    "transport": {
+                        "name": "Transport",
+                        "duration": 3
+                    }
                 },
                 {
-                    "label": "Last Mile",
-                    "duration": 6
+                    "lastmile": {
+                        "name": "Last Mile",
+                        "duration": 6
+                    }
                 }
             ],
             "status": "Inactive" 
@@ -126,16 +162,22 @@
             "countryIso": "NLD",
             "phases": [
                 {
-                    "label": "Warehouse",
-                    "duration": 4
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "duration": 4
+                    }
                 },
                 {
-                    "label": "Transport",
-                    "duration": 3
+                    "transport": {
+                        "name": "Transport",
+                        "duration": 3
+                    }
                 },
                 {
-                    "label": "Last Mile",
-                    "duration": 6
+                    "lastmile": {
+                        "name": "Last Mile",
+                        "duration": 6
+                    }
                 }
             ],
             "status": "Active" 
