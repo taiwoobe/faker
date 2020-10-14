@@ -23,7 +23,7 @@
         {
             "id": "c3b56a9f69544404be4c693b6dfe2800",
             "name": "DHL Swiss",
-            "countryIso": "CHE",
+            "countryIso": "CH",
             "phases": {
                 "warehouse": {
                     "name": "Warehouse",
@@ -43,7 +43,7 @@
         {
             "id": "a0a6e921629447e58c8fb459a1f2610f",
             "name": "UHS Logistics",
-            "countryIso": "AUT",
+            "countryIso": "AT",
             "phases": {
                 "warehouse": {
                     "name": "Warehouse",
@@ -63,7 +63,7 @@
         {
             "id": "b5e9f04210794082b897912ecc56a8ae",
             "name": "Gateway Logistics",
-            "countryIso": "ITA",
+            "countryIso": "IT",
             "phases": {
                 "warehouse": {
                     "name": "Warehouse",
@@ -83,7 +83,7 @@
         {
             "id": "fd8bd58fea6b488baf9d4058d03dd21a",
             "name": "DHL France",
-            "countryIso": "FRA",
+            "countryIso": "FR",
             "phases": {
                 "warehouse": {
                     "name": "Warehouse",
@@ -103,7 +103,7 @@
         {
             "id": "4c0c5638fdd14e82a95dd68e4cdf5aa6",
             "name": "Geodis Freight",
-            "countryIso": "ESP",
+            "countryIso": "ES",
             "phases": {
                 "warehouse": {
                     "name": "Warehouse",
@@ -123,7 +123,7 @@
         {
             "id": "71526843440c44a0b56b8d2610d301e6",
             "name": "Fedex NL",
-            "countryIso": "NLD",
+            "countryIso": "NL",
             "phases": {
                 "warehouse": {
                     "name": "Warehouse",
