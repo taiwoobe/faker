@@ -1,7 +1,7 @@
 {
     "allCarriers": [
         {
-            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea1",
+            "id": "8960e05de26a48cfa99afb0bf7ae5ea1",
             "name": "DHL Germany",
             "countryIso": "DE",
             "phases": {
@@ -21,7 +21,7 @@
             "status": "Active" 
         },
         {
-            "uuid": "c3b56a9f69544404be4c693b6dfe2800",
+            "id": "c3b56a9f69544404be4c693b6dfe2800",
             "name": "DHL Swiss",
             "countryIso": "CH",
             "phases": {
@@ -41,7 +41,7 @@
             "status": "Active" 
         },
         {
-            "uuid": "a0a6e921629447e58c8fb459a1f2610f",
+            "id": "a0a6e921629447e58c8fb459a1f2610f",
             "name": "UHS Logistics",
             "countryIso": "AT",
             "phases": {
@@ -61,7 +61,7 @@
             "status": "Active" 
         },
         {
-            "uuid": "b5e9f04210794082b897912ecc56a8ae",
+            "id": "b5e9f04210794082b897912ecc56a8ae",
             "name": "Gateway Logistics",
             "countryIso": "IT",
             "phases": {
@@ -81,7 +81,7 @@
             "status": "Active" 
         },
         {
-            "uuid": "fd8bd58fea6b488baf9d4058d03dd21a",
+            "id": "fd8bd58fea6b488baf9d4058d03dd21a",
             "name": "DHL France",
             "countryIso": "FR",
             "phases": {
@@ -101,7 +101,7 @@
             "status": "Inactive" 
         },
         {
-            "uuid": "4c0c5638fdd14e82a95dd68e4cdf5aa6",
+            "id": "4c0c5638fdd14e82a95dd68e4cdf5aa6",
             "name": "Geodis Freight",
             "countryIso": "ES",
             "phases": {
@@ -121,7 +121,7 @@
             "status": "Inactive" 
         },
         {
-            "uuid": "71526843440c44a0b56b8d2610d301e6",
+            "id": "71526843440c44a0b56b8d2610d301e6",
             "name": "Fedex NL",
             "countryIso": "NL",
             "phases": {
