@@ -94,6 +94,44 @@
                 }
             ],
             "status": "Inactive" 
+        },
+        {
+            "name": "Geodis Freight",
+            "countryIso": "ESP",
+            "phases": [
+                {
+                    "label": "Warehouse",
+                    "duration": 4
+                },
+                {
+                    "label": "Transport",
+                    "duration": 3
+                },
+                {
+                    "label": "Last Mile",
+                    "duration": 6
+                }
+            ],
+            "status": "Inactive" 
+        },
+        {
+            "name": "Fedex NL",
+            "countryIso": "NLD",
+            "phases": [
+                {
+                    "label": "Warehouse",
+                    "duration": 4
+                },
+                {
+                    "label": "Transport",
+                    "duration": 3
+                },
+                {
+                    "label": "Last Mile",
+                    "duration": 6
+                }
+            ],
+            "status": "Active" 
         }
     ]
 }
