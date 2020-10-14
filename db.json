@@ -1,97 +1,99 @@
-[
-    {
-        "name": "DHL Germany",
-        "countryIso": "DE",
-        "phases": [
-            {
-                "label": "Warehouse",
-                "duration": 4
-            },
-            {
-                "label": "Transport",
-                "duration": 5
-            },
-            {
-                "label": "Last Mile",
-                "duration": 3
-            }
-        ],
-        "status": "Active" 
-    },
-    {
-        "name": "DHL Swiss",
-        "countryIso": "CHE",
-        "phases": [
-            {
-                "label": "Warehouse",
-                "duration": 2
-            },
-            {
-                "label": "Transport",
-                "duration": 5
-            },
-            {
-                "label": "Last Mile",
-                "duration": 2
-            }
-        ],
-        "status": "Active" 
-    },
-    {
-        "name": "UHS Logistics",
-        "countryIso": "AUT",
-        "phases": [
-            {
-                "label": "Warehouse",
-                "duration": 4
-            },
-            {
-                "label": "Transport",
-                "duration": 5
-            },
-            {
-                "label": "Last Mile",
-                "duration": 3
-            }
-        ],
-        "status": "Active" 
-    },
-    {
-        "name": "Gateway Logistics",
-        "countryIso": "ITA",
-        "phases": [
-            {
-                "label": "Warehouse",
-                "duration": 2
-            },
-            {
-                "label": "Transport",
-                "duration": 5
-            },
-            {
-                "label": "Last Mile",
-                "duration": 6
-            }
-        ],
-        "status": "Active" 
-    },
-    {
-        "name": "DHL France",
-        "countryIso": "FRA",
-        "phases": [
-            {
-                "label": "Warehouse",
-                "duration": 4
-            },
-            {
-                "label": "Transport",
-                "duration": 5
-            },
-            {
-                "label": "Last Mile",
-                "duration": 6
-            }
-        ],
-        "status": "Inactive" 
-    }
-]
+{
+    "allCarriers": [
+        {
+            "name": "DHL Germany",
+            "countryIso": "DE",
+            "phases": [
+                {
+                    "label": "Warehouse",
+                    "duration": 4
+                },
+                {
+                    "label": "Transport",
+                    "duration": 5
+                },
+                {
+                    "label": "Last Mile",
+                    "duration": 3
+                }
+            ],
+            "status": "Active" 
+        },
+        {
+            "name": "DHL Swiss",
+            "countryIso": "CHE",
+            "phases": [
+                {
+                    "label": "Warehouse",
+                    "duration": 2
+                },
+                {
+                    "label": "Transport",
+                    "duration": 5
+                },
+                {
+                    "label": "Last Mile",
+                    "duration": 2
+                }
+            ],
+            "status": "Active" 
+        },
+        {
+            "name": "UHS Logistics",
+            "countryIso": "AUT",
+            "phases": [
+                {
+                    "label": "Warehouse",
+                    "duration": 4
+                },
+                {
+                    "label": "Transport",
+                    "duration": 5
+                },
+                {
+                    "label": "Last Mile",
+                    "duration": 3
+                }
+            ],
+            "status": "Active" 
+        },
+        {
+            "name": "Gateway Logistics",
+            "countryIso": "ITA",
+            "phases": [
+                {
+                    "label": "Warehouse",
+                    "duration": 2
+                },
+                {
+                    "label": "Transport",
+                    "duration": 5
+                },
+                {
+                    "label": "Last Mile",
+                    "duration": 6
+                }
+            ],
+            "status": "Active" 
+        },
+        {
+            "name": "DHL France",
+            "countryIso": "FRA",
+            "phases": [
+                {
+                    "label": "Warehouse",
+                    "duration": 4
+                },
+                {
+                    "label": "Transport",
+                    "duration": 5
+                },
+                {
+                    "label": "Last Mile",
+                    "duration": 6
+                }
+            ],
+            "status": "Inactive" 
+        }
+    ]
+}
