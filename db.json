@@ -32,12 +32,12 @@
                 "transport": {
                     "name": "Transport",
                     "duration": 5
-                }
                 },
                 "lastmile": {
                     "name": "Last Mile",
                     "duration": 4
-                },
+                }
+            },
             "status": "Active" 
         },
         {
