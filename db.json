@@ -167,170 +167,28 @@
             "id": "71526843440c44a0b56b8d2610d301e6",
             "name": "Christmas",
             "date": "25-12-2020",
-            "carriers": [
-                {
-                    "id": "71526843440c44a0b56b8d2610d301e6",
-                    "name": "Fedex NL",
-                    "countryIso": "NL",
-                    "phases": [
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Warehouse",
-                            "duration": 4
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Transport",
-                            "duration": 2
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Last Mile",
-                            "duration": 2
-                        }
-                    ],
-                    "status": "Active" 
-                },
-                {
-                    "id": "c3b56a9f69544404be4c693b6dfe2800",
-                    "name": "DHL Swiss",
-                    "countryIso": "CH",
-                    "phases": [
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Warehouse",
-                            "duration": 3
-                        },
-                         {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Transport",
-                            "duration": 5
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Last Mile",
-                            "duration": 4
-                        }
-                    ],
-                    "status": "Active" 
-                },
-                {
-                    "id": "a0a6e921629447e58c8fb459a1f2610f",
-                    "name": "UHS Logistics",
-                    "countryIso": "AT",
-                    "phases": [
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Warehouse",
-                            "duration": 4
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Transport",
-                            "duration": 5
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Last Mile",
-                            "duration": 3
-                        }
-                    ],
-                    "status": "Active" 
-                }
-            ],
+            "carriers": [ "8960e05de26a48cfa99afb0bf7ae5ea1", "c3b56a9f69544404be4c693b6dfe2800", "a0a6e921629447e58c8fb459a1f2610f" ],
             "status": "active"
         },
         {
             "id": "71526843440c44a0b56b8d2610d32222",
             "name": "Good Friday",
             "date": "10-04-2020",
-            "carriers": [
-                {
-                    "id": "71526843440c44a0b56b8d2610d301e6",
-                    "name": "DHL Germany",
-                    "countryIso": "DE",
-                    "phases": [
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Warehouse",
-                            "duration": 4
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Transport",
-                            "duration": 2
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Last Mile",
-                            "duration": 2
-                        }
-                    ],
-                    "status": "Active" 
-                }
-            ],
+            "carriers": [ "71526843440c44a0b56b8d2610d301e6" ],
             "status": "active"
         },
         {
             "id": "71526843440c44a0b56b8d2610d309bb",
             "name": "Labour Day",
             "date": "01-05-2020",
-            "carriers": [
-                {
-                    "id": "71526843440c44a0b56b8d2610d301e6",
-                    "name": "DHL Netherland",
-                    "countryIso": "NL",
-                    "phases": [
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Warehouse",
-                            "duration": 4
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Transport",
-                            "duration": 2
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Last Mile",
-                            "duration": 2
-                        }
-                    ],
-                    "status": "Active" 
-                }
-            ],
+            "carriers": [ "71526843440c44a0b56b8d2610d301e6" ],
             "status": "active"
         },
         {
             "id": "71526843440c44a0b56b8d261033221q",
             "name": "Epiphany",
             "date": "06-01-2020",
-            "carriers": [
-                {
-                    "id": "71526843440c44a0b56b8d2610d301e6",
-                    "name": "DHL Italy",
-                    "countryIso": "IT",
-                    "phases": [
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Warehouse",
-                            "duration": 4
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Transport",
-                            "duration": 2
-                        },
-                        {
-                            "uuid": "8960e05de26a48cfa99afb0bf7ae5ea3",
-                            "name": "Last Mile",
-                            "duration": 2
-                        }
-                    ],
-                    "status": "Active" 
-                }
-            ],
+            "carriers": [ "71526843440c44a0b56b8d2610d301e6" ],
             "status": "active"
         }
     ]
