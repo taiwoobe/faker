@@ -21,7 +21,7 @@
                     "duration": 3
                 }
             ],
-            "status": "Active" 
+            "status": "active" 
         },
         {
             "id": "bd8657ab5e524198a4d668b9871d2764",
@@ -44,7 +44,7 @@
                     "duration": 4
                 }
             ],
-            "status": "Active" 
+            "status": "active" 
         },
         {
             "id": "a55fcea519384fb188b5bcf4993c485c",
@@ -67,7 +67,7 @@
                     "duration": 3
                 }
             ],
-            "status": "Active" 
+            "status": "active" 
         },
         {
             "id": "39f18187c37942cf9193842a64a24e0a",
@@ -90,7 +90,7 @@
                     "duration": 6
                 }
             ],
-            "status": "Active" 
+            "status": "active" 
         },
         {
             "id": "e990d0f9a1514b53ba73d6cb7b1fbf1f",
@@ -113,7 +113,7 @@
                     "duration": 6
                 }
             ],
-            "status": "Inactive" 
+            "status": "inactive" 
         },
         {
             "id": "6785d26454d04fa390d40d2a345bb633",
@@ -136,7 +136,7 @@
                     "duration": 4
                 }
             ],
-            "status": "Inactive" 
+            "status": "inactive" 
         },
         {
             "id": "e28e263306074bd0891ffad2f6795436",
@@ -159,7 +159,7 @@
                     "duration": 2
                 }
             ],
-            "status": "Active" 
+            "status": "active" 
         }
     ],
     "calendars": [
