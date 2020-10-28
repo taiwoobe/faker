@@ -173,21 +173,21 @@
         {
             "id": "4383171a9e3448bb8867b3db2c58e2f1",
             "name": "Good Friday",
-            "date": "2020-04-14",
+            "date": "2020-04-29T22:00:00.000Z",
             "phases": ["674661eea69d47cda074b172b0bb90ca", "1d50fd7aa79f4398aa0fb326e6abfa15"],
             "status": "active"
         },
         {
             "id": "d229c58f4712435a9db6238ab736a61b",
             "name": "Labour Day",
-            "date": "2020-05-01",
+            "date": "2020-04-30T22:00:00.000Z",
             "phases": ["425127eea5c1402e84c77cb0d238782e", "c03f20823b474b46b776df8c801dc117"],
             "status": "inactive"
         },
         {
             "id": "cda4f1ccf31c4f2ea69e30c01a98e857",
             "name": "Epiphany",
-            "date": "2020-06-01",
+            "date": "2020-05-31T22:00:00.000Z",
             "phases": ["83d1d60517454dee8fdbde4d5fbc552b", "d8474afebd96465b93462f561c0eabbc", "1ffb63de79094267b7a9f3b385c051d2"],
             "status": "active"
         }
