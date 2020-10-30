@@ -165,31 +165,75 @@
     "calendars": [
         {
             "id": "17292b426af5435d9936414df1722bc2",
-            "name": "Christmas",
-            "date": "2020-12-25T00:00:00.000Z",
+            "name": "Ludwigselder",
+            "entries": [
+                {
+                    "id": "464151d7e00e4ad1be892171bb8d9630",
+                    "name": "Christmas Day",
+                    "date": "2020-12-25T00:00:00.000Z",
+                    "status": "active"
+                },
+                {
+                    "id": "1d30c56962ee422eb0371b679a80bfe4",
+                    "name": "New Year Day",
+                    "date": "2020-01-01T00:00:00.000Z",
+                    "status": "active"
+                },
+                {
+                    "id": "b0da4a415eee46fea51c01116ea372ee",
+                    "name": "Labour Day",
+                    "date": "2020-06-01T00:00:00.000Z",
+                    "status": "active"
+                }
+            ],
             "phases": ["f2b968887c5d4335beec809df8c33358", "6cd08b679e5e45b48d6ee53523c200ce", "27d6a59a9f3345d0a1697e51245a4427"],
             "status": "active"
         },
         {
             "id": "4383171a9e3448bb8867b3db2c58e2f1",
-            "name": "Good Friday",
-            "date": "2020-04-30T00:00:00.000Z",
+            "name": "Geodis",
+            "entries": [
+                {
+                    "id": "2b3977581ece46198a11ecd7c4da4670",
+                    "name": "Epiphany",
+                    "date": "2020-04-11T00:00:00.000Z",
+                    "status": "active"
+                },
+                {
+                    "id": "0f347527e2eb4d92bd26989c340601f6",
+                    "name": "Good Friday",
+                    "date": "2020-03-29T00:00:00.000Z",
+                    "status": "inactive"
+                }
+            ],
             "phases": ["674661eea69d47cda074b172b0bb90ca", "1d50fd7aa79f4398aa0fb326e6abfa15"],
             "status": "active"
         },
         {
             "id": "d229c58f4712435a9db6238ab736a61b",
-            "name": "Labour Day",
-            "date": "2020-05-01T00:00:00.000Z",
+            "name": "Deniolary",
+            "entries": [
+                {
+                    "id": "9e33d2d0b53e415299cff7247fb27e1c",
+                    "name": "Christmas Day",
+                    "date": "2020-12-25T00:00:00.000Z",
+                    "status": "active"
+                },
+                {
+                    "id": "f3bb4abbf7f7483e82f08883334a6219",
+                    "name": "Oktoberfest Day",
+                    "date": "2020-10-01T00:00:00.000Z",
+                    "status": "inactive"
+                },
+                {
+                    "id": "c74e0ea8ada3411186ef1f247e86b644",
+                    "name": "No Work Day",
+                    "date": "2020-07-01T00:00:00.000Z",
+                    "status": "active"
+                }
+            ],
             "phases": ["425127eea5c1402e84c77cb0d238782e", "c03f20823b474b46b776df8c801dc117"],
             "status": "inactive"
-        },
-        {
-            "id": "cda4f1ccf31c4f2ea69e30c01a98e857",
-            "name": "Epiphany",
-            "date": "2020-06-01T00:00:00.000Z",
-            "phases": ["83d1d60517454dee8fdbde4d5fbc552b", "d8474afebd96465b93462f561c0eabbc", "1ffb63de79094267b7a9f3b385c051d2"],
-            "status": "active"
         }
     ]
 }
